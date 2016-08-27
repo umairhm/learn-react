@@ -1,0 +1,12 @@
+.todo-menu,
+.todo-menu:hover,
+.todo-add,
+.todo-add:hover {
+    display: block;
+    color: #fff;
+}
+
+input.todo {
+    display: inline-block;
+    width: auto;
+}
